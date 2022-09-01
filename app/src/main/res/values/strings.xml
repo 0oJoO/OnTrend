@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">On Trend</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="new_user_registration">New User Registration</string>
+    <string name="register">Register</string>
+    <string name="register_page">Register Page</string>
+    <string name="existing_user_login">Existing User Login</string>
+    <string name="_1_1k">1.1k</string>
+    <string name="post_date">Post Date</string>
+    <string name="location">Location</string>
+    <string name="post_content">Post content</string>
+    <string name="title">Title</string>
+    <string name="email">Email</string>
+</resources>
